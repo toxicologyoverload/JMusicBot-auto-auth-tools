@@ -1,0 +1,1 @@
+# JMusicBot-auto-auth-tools
