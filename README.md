@@ -1,3 +1,5 @@
+As of 5th of May 2025, this repo is archived as it no longer works.
+
 # JMusicBot-auto-auth-tools
 This repository contains a couple of shell scripts to make the deployment of the "YouTube trusted session" patched [JMusicBot](https://github.com/jagrosh/MusicBot) easier.
 
